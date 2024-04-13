@@ -1,0 +1,16 @@
+/**
+* Theme Name: Twenty Twentyfour child
+* Description: Child theme
+* Author: Dmaur
+* Template: twentytwentyfour
+*/
+*{
+    background-color: f9f9f9;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.wp-image-28{
+    margin-left: 10px;
+}
+#wp--skip-link--target{
+    background-color:rgb(177, 197, 164);
+}
